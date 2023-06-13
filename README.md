@@ -22,7 +22,7 @@
 
                         https://github.com/NJredheart
                         Version 0.1
-1.Kali Linux\n
+1.Kali Linux \n
 2.Parrot Linux
 3.Alpine Linux
 4.Arch Linux
